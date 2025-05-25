@@ -11,7 +11,7 @@ I love turning ideas into real-world projects with code! 💻✨
 - 🏆 Google Cloud Arcade Winner  
 - 💡 Exploring AI models for healthcare & agriculture  
 - 🌱 Learning React, Node.js & TensorFlow every day  
-- 📫 Contact me: [your-email@example.com](mailto:thivakardixit@gmail.com)  
+- 📫 Contact me: [thivakardixit@gmail.com](mailto:thivakardixit@gmail.com)  
 - 🔗 [LinkedIn Profile](https://www.linkedin.com/in/thivakar-g)
 
 ---
@@ -36,6 +36,5 @@ I love turning ideas into real-world projects with code! 💻✨
 ---
 
 Thanks for visiting! 🌟  
-![Cheers](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
 

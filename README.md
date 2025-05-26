@@ -11,17 +11,15 @@ I love turning ideas into real-world projects with code! 💻✨
 - 🏆 Google Cloud Arcade Facilator 
 - 💡 Exploring AI models for healthcare & agriculture  
 - 🌱 Learning React, Node.js & Machine Learning every day  
-- 📫 Contact me: [thivakardixit@gmail.com](mailto:thivakardixit@gmail.com)  
-- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/thivakar-g)
 
 ---
-
+## Social Presence
 <p align="center">
   <a href="mailto:thivakardixit@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/thivakar-g"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://x.com/yourhandle"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://instagram.com/yourhandle"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://thivakar.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://x.com/Thiva2804"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.instagram.com/thiva_dixit._.28/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 ## 🛠️ Skills & Tools

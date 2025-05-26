@@ -25,9 +25,9 @@ I love turning ideas into real-world projects with code! 💻✨
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
   <img src="https://img.icons8.com/officel/48/react.png" alt="React JS"/>
   <img src="https://img.icons8.com/fluency/48/node-js.png" alt="Node JS"/>
-  <img src="https://img.icons8.com/color/48/express.png" alt="Express JS"/>
+ <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="Express JS" width="48" height="48"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
-  <img src="https://img.icons8.com/ios-filled/50/git.png" alt="Git"/>
+   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
   <img src="https://img.icons8.com/fluency/48/000000/python.png" alt="Python"/>
   <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" alt="SQL"/>
 </p>

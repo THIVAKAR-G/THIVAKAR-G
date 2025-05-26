@@ -8,9 +8,9 @@ I love turning ideas into real-world projects with code! 💻✨
 
 ## 🚀 About Me
 - 🎓 Final Year CSE Student | Project Associate | Full Stack Developer Intern  
-- 🏆 Google Cloud Arcade Winner  
+- 🏆 Google Cloud Arcade Facilator 
 - 💡 Exploring AI models for healthcare & agriculture  
-- 🌱 Learning React, Node.js & TensorFlow every day  
+- 🌱 Learning React, Node.js & Machine Learning every day  
 - 📫 Contact me: [thivakardixit@gmail.com](mailto:thivakardixit@gmail.com)  
 - 🔗 [LinkedIn Profile](https://www.linkedin.com/in/thivakar-g)
 

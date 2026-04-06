@@ -1,7 +1,7 @@
 # Hi, I'm Thivakar! 👋
 
 
-I'm a **Final Year CSE Student** passionate about **AI 🤖**, **Machine Learning**, and **Full Stack Development**.  
+I'm a **Software Developer** passionate about **AI 🤖**, **Machine Learning**, and **Full Stack Development**.  
 I love turning ideas into real-world projects with code! 💻✨
 
 ---
